@@ -33,8 +33,7 @@ _Enable multiline flag for this._
 
 
 ### Match different line breaks
-There are lots of them.
 
 ```(\n|\u000A|\v|\u000B|\f|\u000C|\r|\u000D|\r\n|\u000D\u000A|\u0085|\u2028|\u2029)```
 
-Better replace them either to ```\n``` or ```\r\n```.
+Better replace them either with ```\n``` or ```\r\n```.
